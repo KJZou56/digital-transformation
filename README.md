@@ -14,7 +14,7 @@ potential borrowers to support focused marketing.
 The dataset has 2 CSV files,  
  Data1 - 5000 rows and 8 columns 
  Data 2 - 5000 rows and 7 columns 
-The data consists of the following attributes: 
+### The data consists of the following attributes: 
 1. ID: Customer ID 
 2. Age Customer’s approximate age. 
 3. CustomerSince: Customer of the bank since. [unit is masked] 
@@ -34,13 +34,13 @@ masked]
 12. InternetBanking: if the customer uses internet banking. 
 13. CreditCard: if the customer uses bank’s credit card. 
 14. LoanOnCard: if the customer has a loan on credit card 
-Aim 
+## Aim 
 Build a machine learning model to perform focused digital marketing by predicting the 
 potential customers who will convert from liability customers to asset customers. 
-Tech stack  
+## Tech stack  
  Language - Python 
  Libraries – numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn 
-Approach  
+## Approach  
 1. Importing the required libraries and reading the dataset. 
  Merging of the two datasets  
  Understanding the dataset 
