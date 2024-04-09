@@ -37,16 +37,18 @@ potential customers who will convert from liability customers to asset customers
 **Language** - Python 
 **Libraries** – numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn 
 ## Approach  
-1. Importing the required libraries and reading the dataset. 
-Merging of the two datasets  
-Understanding the dataset 
-2. Exploratory Data Analysis (EDA) –  
+1. Importing the required libraries and reading the dataset.
+Merging of the two datasets
+
+Understanding the dataset
+
+3. Exploratory Data Analysis (EDA) –  
 Data Visualization 
-3. Feature Engineering  
+4. Feature Engineering  
 Dropping of unwanted columns  
 Removal of null values 
 Checking for multi-collinearity and removal of highly correlated features 
-4. Model Building 
+5. Model Building 
 Performing train test split 
 Logistic Regression Model 
 Weighted Logistic Regression Model 
@@ -54,15 +56,15 @@ Naive Bayes Model
 Support Vector Machine Model 
 Decision Tree Classifier 
 Random Forest Classifier 
-5. Model Validation  
+6. Model Validation  
 Accuracy score 
 Confusion matrix  
 Area Under Curve (AUC) 
 Recall score 
 Precision score 
 F1-score 
-6. Handling the unbalanced data using imblearn. 
-7. Hyperparameter Tuning (GridSearchCV) 
+7. Handling the unbalanced data using imblearn. 
+8. Hyperparameter Tuning (GridSearchCV) 
 For Support Vector Machine Model 
-8. Creating the final model and making predictions 
-9. Save the model with the highest accuracy in the form of a pickle file.
+9. Creating the final model and making predictions 
+10. Save the model with the highest accuracy in the form of a pickle file.
