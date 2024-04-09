@@ -10,7 +10,7 @@ campaigns with better target marketing to increase the conversion ratio to doubl
 with same budget as per the last campaign.  
 As a data scientist, you are asked to develop a machine learning model to identify 
 potential borrowers to support focused marketing. 
-Data Description  
+## Data Description  
 The dataset has 2 CSV files,  
  Data1 - 5000 rows and 8 columns 
  Data 2 - 5000 rows and 7 columns 
