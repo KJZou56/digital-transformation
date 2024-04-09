@@ -54,41 +54,42 @@ Dropping of unwanted columns
 Removal of null values 
 
 Checking for multi-collinearity and removal of highly correlated features 
+
 6. Model Building 
 
-Performing train test split 
+  Performing train test split 
 
-Logistic Regression Model 
+  Logistic Regression Model 
 
-Weighted Logistic Regression Model 
+  Weighted Logistic Regression Model 
 
-Naive Bayes Model 
+  Naive Bayes Model 
 
-Support Vector Machine Model 
-
-Decision Tree Classifier 
-
-Random Forest Classifier 
+  Support Vector Machine Model 
+  
+  Decision Tree Classifier 
+  
+  Random Forest Classifier 
 
 7. Model Validation  
 
-Accuracy score 
-
-Confusion matrix  
-
-Area Under Curve (AUC) 
-
-Recall score 
-
-Precision score 
-
-F1-score 
+  Accuracy score 
+  
+  Confusion matrix  
+  
+  Area Under Curve (AUC) 
+  
+  Recall score 
+  
+  Precision score 
+  
+  F1-score 
 
 8. Handling the unbalanced data using imblearn. 
 
 9. Hyperparameter Tuning (GridSearchCV) 
 
-For Support Vector Machine Model 
+  For Support Vector Machine Model 
 
 10. Creating the final model and making predictions 
 
