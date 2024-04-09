@@ -38,16 +38,15 @@ potential customers who will convert from liability customers to asset customers
 **Libraries** – numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn 
 ## Approach  
 1. Importing the required libraries and reading the dataset.
+- Merging of the two datasets
 
-Merging of the two datasets
+- Understanding the dataset
 
-Understanding the dataset
+2. Exploratory Data Analysis (EDA)
 
-3. Exploratory Data Analysis (EDA) 
+- Data Visualization 
 
-Data Visualization 
-
-5. Feature Engineering  
+3. Feature Engineering  
 
 Dropping of unwanted columns  
 
